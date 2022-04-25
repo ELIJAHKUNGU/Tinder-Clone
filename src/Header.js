@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import PermIdentityIcon from '@mui/icons-material/PermIdentity';
 import ForumIcon from '@mui/icons-material/Forum';
-import IconButton from '@material-ui/core/IconButton';
+import IconButton from '@mui/material/IconButton';
 
 const Header = () => {
   return (
